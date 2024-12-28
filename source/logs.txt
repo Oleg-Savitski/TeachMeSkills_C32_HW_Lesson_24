@@ -1,0 +1,627 @@
+2024-12-28 15:36:25 | INFO | Запрос к настройкам приложения
+2024-12-28 15:36:48 | INFO | Запрос к биографии Наполеона
+2024-12-28 15:36:58 | INFO | Запрос к счетчику посещений
+2024-12-28 15:36:58 | DEBUG | Текущее количество посещений: 1
+2024-12-28 15:37:17 | INFO | Запрос на сброс счетчика посещений
+2024-12-28 15:37:17 | DEBUG | Счетчик посещений сброшен
+2024-12-28 15:37:27 | INFO | Запрос к счетчику посещений
+2024-12-28 15:37:27 | DEBUG | Текущее количество посещений: 1
+2024-12-28 15:39:02 | INFO | Запрос к настройкам приложения
+2024-12-28 15:39:40 | INFO | Запрос к журналу логов
+2024-12-28 15:39:40 | ERROR | Ошибка чтения лог-файла: logs.txt
+2024-12-28 15:41:27 | INFO | Запрос к счетчику посещений
+2024-12-28 15:41:27 | DEBUG | Текущее количество посещений: 2
+2024-12-28 15:41:30 | INFO | Запрос к счетчику посещений
+2024-12-28 15:41:30 | DEBUG | Текущее количество посещений: 3
+2024-12-28 15:41:32 | INFO | Запрос к счетчику посещений
+2024-12-28 15:41:32 | DEBUG | Текущее количество посещений: 4
+2024-12-28 15:41:52 | INFO | Запрос к биографии Наполеона
+2024-12-28 15:41:55 | INFO | Запрос к биографии Наполеона
+2024-12-28 15:41:57 | INFO | Запрос к биографии Наполеона
+2024-12-28 15:41:59 | INFO | Запрос к биографии Наполеона
+2024-12-28 15:42:14 | INFO | Запрос к биографии Наполеона
+2024-12-28 15:42:22 | INFO | Запрос к счетчику посещений
+2024-12-28 15:42:22 | DEBUG | Текущее количество посещений: 5
+2024-12-28 15:42:25 | INFO | Запрос к счетчику посещений
+2024-12-28 15:42:25 | DEBUG | Текущее количество посещений: 6
+2024-12-28 15:42:52 | INFO | Запрос к счетчику посещений
+2024-12-28 15:42:52 | DEBUG | Текущее количество посещений: 7
+2024-12-28 15:42:59 | INFO | Запрос на сброс счетчика посещений
+2024-12-28 15:42:59 | DEBUG | Счетчик посещений сброшен
+2024-12-28 15:56:04 | INFO | Запрос к биографии Наполеона
+2024-12-28 16:04:07 | INFO | Запрос к биографии Наполеона
+2024-12-28 16:04:17 | INFO | Запрос к целям Наполеона
+2024-12-28 16:04:21 | INFO | Запрос к биографии Наполеона
+2024-12-28 16:04:28 | INFO | Запрос к целям Наполеона
+2024-12-28 16:04:33 | INFO | Запрос к биографии Наполеона
+2024-12-28 16:04:45 | INFO | Запрос к целям Наполеона
+2024-12-28 16:04:51 | INFO | Запрос к биографии Наполеона
+2024-12-28 16:09:17 | INFO | Запрос к биографии Наполеона
+2024-12-28 16:09:24 | INFO | Запрос к целям Наполеона
+2024-12-28 16:09:26 | INFO | Запрос к биографии Наполеона
+2024-12-28 16:09:29 | INFO | Запрос к целям Наполеона
+2024-12-28 16:09:32 | INFO | Запрос к биографии Наполеона
+2024-12-28 16:09:39 | INFO | Запрос к целям Наполеона
+2024-12-28 16:12:41 | INFO | Запрос к целям Наполеона
+2024-12-28 16:12:43 | INFO | Запрос к биографии Наполеона
+2024-12-28 16:12:45 | INFO | Запрос к целям Наполеона
+2024-12-28 16:25:09 | INFO | [2024-12-28 16:25:09] Запрос к целям Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:25:09 | DEBUG | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 16:25:09 | DEBUG | Размер файла целей: 3824 байт
+2024-12-28 16:25:09 | INFO | Контент целей успешно модифицирован
+2024-12-28 16:25:09 | INFO | [2024-12-28 16:25:09] Обработка запроса завершена за 21 мс
+2024-12-28 16:25:13 | INFO | [2024-12-28 16:25:13] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:25:13 | DEBUG | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 16:25:13 | DEBUG | Размер файла биографии: 4607 байт
+2024-12-28 16:25:13 | INFO | Контент биографии успешно модифицирован
+2024-12-28 16:25:13 | INFO | [2024-12-28 16:25:13] Обработка запроса завершена за 4 мс
+2024-12-28 16:25:15 | INFO | [2024-12-28 16:25:15] Запрос к целям Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:25:15 | DEBUG | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 16:25:15 | DEBUG | Размер файла целей: 3824 байт
+2024-12-28 16:25:15 | INFO | Контент целей успешно модифицирован
+2024-12-28 16:25:15 | INFO | [2024-12-28 16:25:15] Обработка запроса завершена за 2 мс
+2024-12-28 16:25:18 | INFO | [2024-12-28 16:25:18] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:25:18 | DEBUG | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 16:25:18 | DEBUG | Размер файла биографии: 4607 байт
+2024-12-28 16:25:18 | INFO | Контент биографии успешно модифицирован
+2024-12-28 16:25:18 | INFO | [2024-12-28 16:25:18] Обработка запроса завершена за 1 мс
+2024-12-28 16:25:20 | INFO | [2024-12-28 16:25:20] Запрос к целям Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:25:20 | DEBUG | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 16:25:20 | DEBUG | Размер файла целей: 3824 байт
+2024-12-28 16:25:20 | INFO | Контент целей успешно модифицирован
+2024-12-28 16:25:20 | INFO | [2024-12-28 16:25:20] Обработка запроса завершена за 1 мс
+2024-12-28 16:30:33.938 | INFO | http-nio-8080-exec-94 | [2024-12-28 16:30:33] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:30:33.941 | DEBUG | http-nio-8080-exec-94 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 16:30:33.946 | DEBUG | http-nio-8080-exec-94 | Размер файла биографии: 4607 байт
+2024-12-28 16:30:33.946 | INFO | http-nio-8080-exec-94 | Контент биографии успешно модифицирован
+2024-12-28 16:30:33.947 | INFO | http-nio-8080-exec-94 | [2024-12-28 16:30:33] Обработка запроса завершена за 15 мс
+2024-12-28 16:30:35.850 | INFO | http-nio-8080-exec-101 | [2024-12-28 16:30:35] Запрос к целям Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:30:35.851 | DEBUG | http-nio-8080-exec-101 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 16:30:35.853 | DEBUG | http-nio-8080-exec-101 | Размер файла целей: 3824 байт
+2024-12-28 16:30:35.854 | INFO | http-nio-8080-exec-101 | Контент целей успешно модифицирован
+2024-12-28 16:30:35.855 | INFO | http-nio-8080-exec-101 | [2024-12-28 16:30:35] Обработка запроса завершена за 4 мс
+2024-12-28 16:30:39.073 | INFO | http-nio-8080-exec-93 | [2024-12-28 16:30:39] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:30:39.074 | DEBUG | http-nio-8080-exec-93 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 16:30:39.075 | DEBUG | http-nio-8080-exec-93 | Размер файла биографии: 4607 байт
+2024-12-28 16:30:39.076 | INFO | http-nio-8080-exec-93 | Контент биографии успешно модифицирован
+2024-12-28 16:30:39.077 | INFO | http-nio-8080-exec-93 | [2024-12-28 16:30:39] Обработка запроса завершена за 3 мс
+2024-12-28 16:30:49.088 | INFO | http-nio-8080-exec-98 | Запрос к настройкам приложения
+2024-12-28 16:31:01.863 | INFO | http-nio-8080-exec-100 | Запрос к счетчику посещений
+2024-12-28 16:31:01.870 | DEBUG | http-nio-8080-exec-100 | Текущее количество посещений: 1
+2024-12-28 16:33:14.399 | INFO | http-nio-8080-exec-106 | [2024-12-28 16:33:14] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:33:14.400 | DEBUG | http-nio-8080-exec-106 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 16:33:14.403 | DEBUG | http-nio-8080-exec-106 | Размер файла биографии: 4607 байт
+2024-12-28 16:33:14.403 | INFO | http-nio-8080-exec-106 | Контент биографии успешно модифицирован
+2024-12-28 16:33:14.404 | INFO | http-nio-8080-exec-106 | [2024-12-28 16:33:14] Обработка запроса завершена за 3 мс
+2024-12-28 16:33:21.831 | INFO | http-nio-8080-exec-107 | Запрос к журналу логов
+2024-12-28 16:33:21.831 | ERROR | http-nio-8080-exec-107 | Ошибка чтения лог-файла: logs.txt
+2024-12-28 16:37:10.612 | INFO | http-nio-8080-exec-110 | [2024-12-28 16:37:10] Запрос к целям Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:37:10.614 | DEBUG | http-nio-8080-exec-110 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 16:37:10.619 | DEBUG | http-nio-8080-exec-110 | Размер файла целей: 3824 байт
+2024-12-28 16:37:10.619 | INFO | http-nio-8080-exec-110 | Контент целей успешно модифицирован
+2024-12-28 16:37:10.620 | INFO | http-nio-8080-exec-110 | [2024-12-28 16:37:10] Обработка запроса завершена за 11 мс
+2024-12-28 16:37:20.697 | INFO | http-nio-8080-exec-109 | Запрос к журналу логов
+2024-12-28 16:37:20.727 | INFO | http-nio-8080-exec-109 | Журнал логов успешно отображен
+2024-12-28 16:41:00.832 | INFO | http-nio-8080-exec-113 | Запрос к журналу логов
+2024-12-28 16:41:00.853 | INFO | http-nio-8080-exec-113 | Журнал логов успешно отображен
+2024-12-28 16:43:01.268 | INFO | http-nio-8080-exec-116 | Запрос к журналу логов
+2024-12-28 16:43:01.286 | INFO | http-nio-8080-exec-116 | Журнал логов успешно отображен
+2024-12-28 16:43:12.468 | INFO | http-nio-8080-exec-117 | [2024-12-28 16:43:12] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:43:12.469 | DEBUG | http-nio-8080-exec-117 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 16:43:12.470 | DEBUG | http-nio-8080-exec-117 | Размер файла биографии: 4607 байт
+2024-12-28 16:43:12.471 | INFO | http-nio-8080-exec-117 | Контент биографии успешно модифицирован
+2024-12-28 16:43:12.471 | INFO | http-nio-8080-exec-117 | [2024-12-28 16:43:12] Обработка запроса завершена за 3 мс
+2024-12-28 16:43:14.632 | INFO | http-nio-8080-exec-118 | [2024-12-28 16:43:14] Запрос к целям Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:43:14.633 | DEBUG | http-nio-8080-exec-118 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 16:43:14.635 | DEBUG | http-nio-8080-exec-118 | Размер файла целей: 3824 байт
+2024-12-28 16:43:14.636 | INFO | http-nio-8080-exec-118 | Контент целей успешно модифицирован
+2024-12-28 16:43:14.636 | INFO | http-nio-8080-exec-118 | [2024-12-28 16:43:14] Обработка запроса завершена за 3 мс
+2024-12-28 16:43:18.096 | INFO | http-nio-8080-exec-119 | [2024-12-28 16:43:18] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:43:18.097 | DEBUG | http-nio-8080-exec-119 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 16:43:18.098 | DEBUG | http-nio-8080-exec-119 | Размер файла биографии: 4607 байт
+2024-12-28 16:43:18.098 | INFO | http-nio-8080-exec-119 | Контент биографии успешно модифицирован
+2024-12-28 16:43:18.099 | INFO | http-nio-8080-exec-119 | [2024-12-28 16:43:18] Обработка запроса завершена за 2 мс
+2024-12-28 16:43:21.103 | INFO | http-nio-8080-exec-113 | [2024-12-28 16:43:21] Запрос к целям Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:43:21.104 | DEBUG | http-nio-8080-exec-113 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 16:43:21.105 | DEBUG | http-nio-8080-exec-113 | Размер файла целей: 3824 байт
+2024-12-28 16:43:21.106 | INFO | http-nio-8080-exec-113 | Контент целей успешно модифицирован
+2024-12-28 16:43:21.107 | INFO | http-nio-8080-exec-113 | [2024-12-28 16:43:21] Обработка запроса завершена за 2 мс
+2024-12-28 16:43:22.975 | INFO | http-nio-8080-exec-114 | [2024-12-28 16:43:22] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:43:22.976 | DEBUG | http-nio-8080-exec-114 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 16:43:22.977 | DEBUG | http-nio-8080-exec-114 | Размер файла биографии: 4607 байт
+2024-12-28 16:43:22.977 | INFO | http-nio-8080-exec-114 | Контент биографии успешно модифицирован
+2024-12-28 16:43:22.978 | INFO | http-nio-8080-exec-114 | [2024-12-28 16:43:22] Обработка запроса завершена за 2 мс
+2024-12-28 16:43:29.452 | INFO | http-nio-8080-exec-115 | Запрос к журналу логов
+2024-12-28 16:43:29.471 | INFO | http-nio-8080-exec-115 | Журнал логов успешно отображен
+2024-12-28 16:44:28.737 | INFO | http-nio-8080-exec-122 | Запрос к настройкам приложения
+2024-12-28 16:49:46.214 | INFO | http-nio-8080-exec-120 | Запрос к настройкам приложения [2024-12-28T16:49:46.2100125] с IP 0:0:0:0:0:0:0:1
+2024-12-28 16:49:46.214 | INFO | http-nio-8080-exec-120 | Страница настроек успешно сформирована
+2024-12-28 16:58:54.023 | SERVLET_INIT | http-nio-8080-exec-131 | Инициализация сервлета: SettingsServlet
+2024-12-28 16:58:54.024 | SERVLET_REQUEST | http-nio-8080-exec-131 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 16:58:54.025 | INFO | http-nio-8080-exec-131 | Страница настроек успешно сформирована
+2024-12-28 16:58:58.989 | SERVLET_REQUEST | http-nio-8080-exec-126 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 16:58:58.990 | INFO | http-nio-8080-exec-126 | Страница настроек успешно сформирована
+2024-12-28 16:59:03.711 | SERVLET_REQUEST | http-nio-8080-exec-130 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 16:59:03.711 | INFO | http-nio-8080-exec-130 | Страница настроек успешно сформирована
+2024-12-28 16:59:12.093 | INFO | http-nio-8080-exec-125 | Запрос к счетчику посещений
+2024-12-28 16:59:12.109 | DEBUG | http-nio-8080-exec-125 | Текущее количество посещений: 1
+2024-12-28 16:59:18.332 | INFO | http-nio-8080-exec-124 | [2024-12-28 16:59:18] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:59:18.334 | DEBUG | http-nio-8080-exec-124 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 16:59:18.338 | DEBUG | http-nio-8080-exec-124 | Размер файла биографии: 4607 байт
+2024-12-28 16:59:18.339 | INFO | http-nio-8080-exec-124 | Контент биографии успешно модифицирован
+2024-12-28 16:59:18.340 | INFO | http-nio-8080-exec-124 | [2024-12-28 16:59:18] Обработка запроса завершена за 6 мс
+2024-12-28 16:59:20.491 | INFO | http-nio-8080-exec-129 | [2024-12-28 16:59:20] Запрос к целям Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 16:59:20.492 | DEBUG | http-nio-8080-exec-129 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 16:59:20.494 | DEBUG | http-nio-8080-exec-129 | Размер файла целей: 3824 байт
+2024-12-28 16:59:20.495 | INFO | http-nio-8080-exec-129 | Контент целей успешно модифицирован
+2024-12-28 16:59:20.495 | INFO | http-nio-8080-exec-129 | [2024-12-28 16:59:20] Обработка запроса завершена за 3 мс
+2024-12-28 16:59:28.988 | SERVLET_REQUEST | http-nio-8080-exec-123 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 16:59:28.989 | INFO | http-nio-8080-exec-123 | Страница настроек успешно сформирована
+2024-12-28 17:00:37.826 | INFO | http-nio-8080-exec-134 | Запрос к журналу логов
+2024-12-28 17:00:37.849 | INFO | http-nio-8080-exec-134 | Журнал логов успешно отображен
+2024-12-28 17:08:34.004 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: SettingsServlet
+2024-12-28 17:08:41.453 | SERVLET_INIT | http-nio-8080-exec-139 | Инициализация сервлета: LogViewerServlet
+2024-12-28 17:08:41.454 | SERVLET_REQUEST | http-nio-8080-exec-139 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:08:41.483 | INFO | http-nio-8080-exec-139 | Журнал логов успешно отображен
+2024-12-28 17:09:00.405 | SERVLET_INIT | http-nio-8080-exec-141 | Инициализация сервлета: SettingsServlet
+2024-12-28 17:09:00.405 | SERVLET_REQUEST | http-nio-8080-exec-141 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:09:00.406 | INFO | http-nio-8080-exec-141 | Страница настроек успешно сформирована
+2024-12-28 17:09:08.217 | SERVLET_REQUEST | http-nio-8080-exec-138 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:09:08.218 | INFO | http-nio-8080-exec-138 | Страница настроек успешно сформирована
+2024-12-28 17:09:17.378 | INFO | http-nio-8080-exec-136 | [2024-12-28 17:09:17] Запрос к биографии Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:09:17.380 | DEBUG | http-nio-8080-exec-136 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 17:09:17.382 | DEBUG | http-nio-8080-exec-136 | Размер файла биографии: 4607 байт
+2024-12-28 17:09:17.383 | INFO | http-nio-8080-exec-136 | Контент биографии успешно модифицирован
+2024-12-28 17:09:17.384 | INFO | http-nio-8080-exec-136 | [2024-12-28 17:09:17] Обработка запроса завершена за 5 мс
+2024-12-28 17:09:19.209 | INFO | http-nio-8080-exec-134 | [2024-12-28 17:09:19] Запрос к целям Наполеона: IP=0:0:0:0:0:0:0:1, UserAgent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:09:19.210 | DEBUG | http-nio-8080-exec-134 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 17:09:19.213 | DEBUG | http-nio-8080-exec-134 | Размер файла целей: 3824 байт
+2024-12-28 17:09:19.214 | INFO | http-nio-8080-exec-134 | Контент целей успешно модифицирован
+2024-12-28 17:09:19.214 | INFO | http-nio-8080-exec-134 | [2024-12-28 17:09:19] Обработка запроса завершена за 4 мс
+2024-12-28 17:09:26.956 | SERVLET_REQUEST | http-nio-8080-exec-133 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:09:26.957 | INFO | http-nio-8080-exec-133 | Страница настроек успешно сформирована
+2024-12-28 17:09:33.723 | SERVLET_REQUEST | http-nio-8080-exec-140 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:09:33.740 | INFO | http-nio-8080-exec-140 | Журнал логов успешно отображен
+2024-12-28 17:13:14.501 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: SettingsServlet
+2024-12-28 17:13:14.504 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: LogViewerServlet
+2024-12-28 17:13:19.232 | SERVLET_INIT | http-nio-8080-exec-144 | Инициализация сервлета: LogViewerServlet
+2024-12-28 17:13:19.233 | SERVLET_REQUEST | http-nio-8080-exec-144 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:13:19.264 | INFO | http-nio-8080-exec-144 | Журнал логов успешно отображен
+2024-12-28 17:13:31.713 | SERVLET_INIT | http-nio-8080-exec-151 | Инициализация сервлета: SettingsServlet
+2024-12-28 17:13:31.714 | SERVLET_REQUEST | http-nio-8080-exec-151 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:13:31.715 | INFO | http-nio-8080-exec-151 | Страница настроек успешно сформирована
+2024-12-28 17:13:38.780 | SERVLET_INIT | http-nio-8080-exec-147 | Инициализация сервлета: NapoleonBiographyServlet
+2024-12-28 17:13:38.781 | SERVLET_REQUEST | http-nio-8080-exec-147 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:13:38.783 | DEBUG | http-nio-8080-exec-147 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 17:13:38.786 | DEBUG | http-nio-8080-exec-147 | Размер файла биографии: 4607 байт
+2024-12-28 17:13:38.788 | INFO | http-nio-8080-exec-147 | Контент биографии успешно модифицирован
+2024-12-28 17:13:38.788 | INFO | http-nio-8080-exec-147 | Страница биографии Наполеона успешно обработана
+2024-12-28 17:13:40.664 | SERVLET_INIT | http-nio-8080-exec-148 | Инициализация сервлета: NapoleonGoalsServlet
+2024-12-28 17:13:40.664 | SERVLET_REQUEST | http-nio-8080-exec-148 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:13:40.666 | DEBUG | http-nio-8080-exec-148 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 17:13:40.668 | DEBUG | http-nio-8080-exec-148 | Размер файла целей: 3824 байт
+2024-12-28 17:13:40.668 | INFO | http-nio-8080-exec-148 | Контент целей успешно модифицирован
+2024-12-28 17:13:40.668 | INFO | http-nio-8080-exec-148 | Страница целей Наполеона успешно обработана
+2024-12-28 17:13:48.364 | SERVLET_REQUEST | http-nio-8080-exec-143 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:13:48.382 | INFO | http-nio-8080-exec-143 | Журнал логов успешно отображен
+2024-12-28 17:18:21.068 | SERVLET_REQUEST | http-nio-8080-exec-153 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:18:21.088 | INFO | http-nio-8080-exec-153 | Журнал логов успешно отображен
+2024-12-28 17:18:36.234 | SERVLET_REQUEST | http-nio-8080-exec-154 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:18:36.235 | INFO | http-nio-8080-exec-154 | Страница настроек успешно сформирована
+2024-12-28 17:18:40.267 | SERVLET_REQUEST | http-nio-8080-exec-155 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:18:40.268 | INFO | http-nio-8080-exec-155 | Страница настроек успешно сформирована
+2024-12-28 17:18:47.450 | SERVLET_REQUEST | http-nio-8080-exec-157 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:18:47.452 | DEBUG | http-nio-8080-exec-157 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 17:18:47.454 | DEBUG | http-nio-8080-exec-157 | Размер файла биографии: 4607 байт
+2024-12-28 17:18:47.455 | INFO | http-nio-8080-exec-157 | Контент биографии успешно модифицирован
+2024-12-28 17:18:47.455 | INFO | http-nio-8080-exec-157 | Страница биографии Наполеона успешно обработана
+2024-12-28 17:18:51.970 | SERVLET_REQUEST | http-nio-8080-exec-158 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:18:51.971 | DEBUG | http-nio-8080-exec-158 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 17:18:51.971 | DEBUG | http-nio-8080-exec-158 | Размер файла целей: 3824 байт
+2024-12-28 17:18:51.972 | INFO | http-nio-8080-exec-158 | Контент целей успешно модифицирован
+2024-12-28 17:18:51.972 | INFO | http-nio-8080-exec-158 | Страница целей Наполеона успешно обработана
+2024-12-28 17:18:54.137 | SERVLET_REQUEST | http-nio-8080-exec-159 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:18:54.138 | DEBUG | http-nio-8080-exec-159 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 17:18:54.140 | DEBUG | http-nio-8080-exec-159 | Размер файла биографии: 4607 байт
+2024-12-28 17:18:54.140 | INFO | http-nio-8080-exec-159 | Контент биографии успешно модифицирован
+2024-12-28 17:18:54.141 | INFO | http-nio-8080-exec-159 | Страница биографии Наполеона успешно обработана
+2024-12-28 17:18:58.394 | INFO | http-nio-8080-exec-160 | Запрос к счетчику посещений
+2024-12-28 17:18:58.400 | DEBUG | http-nio-8080-exec-160 | Текущее количество посещений: 1
+2024-12-28 17:19:06.862 | SERVLET_REQUEST | http-nio-8080-exec-161 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:19:06.884 | INFO | http-nio-8080-exec-161 | Журнал логов успешно отображен
+2024-12-28 17:29:45.967 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: NapoleonGoalsServlet
+2024-12-28 17:29:45.967 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: SettingsServlet
+2024-12-28 17:29:45.968 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: LogViewerServlet
+2024-12-28 17:29:45.969 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: NapoleonBiographyServlet
+2024-12-28 17:29:57.085 | SERVLET_INIT | http-nio-8080-exec-157 | Инициализация сервлета: LogViewerServlet
+2024-12-28 17:29:57.087 | SERVLET_REQUEST | http-nio-8080-exec-157 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:29:57.109 | INFO | http-nio-8080-exec-157 | Журнал логов успешно отображен
+2024-12-28 17:30:13.539 | SERVLET_INIT | http-nio-8080-exec-156 | Инициализация сервлета: NapoleonBiographyServlet
+2024-12-28 17:30:13.539 | SERVLET_REQUEST | http-nio-8080-exec-156 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:30:13.540 | DEBUG | http-nio-8080-exec-156 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 17:30:13.542 | DEBUG | http-nio-8080-exec-156 | Размер файла биографии: 4607 байт
+2024-12-28 17:30:13.542 | INFO | http-nio-8080-exec-156 | Контент биографии успешно модифицирован
+2024-12-28 17:30:13.543 | INFO | http-nio-8080-exec-156 | Страница биографии Наполеона успешно обработана
+2024-12-28 17:30:15.552 | SERVLET_INIT | http-nio-8080-exec-158 | Инициализация сервлета: NapoleonGoalsServlet
+2024-12-28 17:30:15.553 | SERVLET_REQUEST | http-nio-8080-exec-158 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:30:15.556 | DEBUG | http-nio-8080-exec-158 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 17:30:15.560 | DEBUG | http-nio-8080-exec-158 | Размер файла целей: 3824 байт
+2024-12-28 17:30:15.560 | INFO | http-nio-8080-exec-158 | Контент целей успешно модифицирован
+2024-12-28 17:30:15.560 | INFO | http-nio-8080-exec-158 | Страница целей Наполеона успешно обработана
+2024-12-28 17:30:17.367 | SERVLET_REQUEST | http-nio-8080-exec-154 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:30:17.368 | DEBUG | http-nio-8080-exec-154 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 17:30:17.369 | DEBUG | http-nio-8080-exec-154 | Размер файла биографии: 4607 байт
+2024-12-28 17:30:17.370 | INFO | http-nio-8080-exec-154 | Контент биографии успешно модифицирован
+2024-12-28 17:30:17.371 | INFO | http-nio-8080-exec-154 | Страница биографии Наполеона успешно обработана
+2024-12-28 17:30:19.048 | SERVLET_REQUEST | http-nio-8080-exec-153 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:30:19.049 | DEBUG | http-nio-8080-exec-153 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 17:30:19.050 | DEBUG | http-nio-8080-exec-153 | Размер файла целей: 3824 байт
+2024-12-28 17:30:19.051 | INFO | http-nio-8080-exec-153 | Контент целей успешно модифицирован
+2024-12-28 17:30:19.052 | INFO | http-nio-8080-exec-153 | Страница целей Наполеона успешно обработана
+2024-12-28 17:30:22.147 | SERVLET_REQUEST | http-nio-8080-exec-160 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:30:22.148 | DEBUG | http-nio-8080-exec-160 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 17:30:22.149 | DEBUG | http-nio-8080-exec-160 | Размер файла биографии: 4607 байт
+2024-12-28 17:30:22.149 | INFO | http-nio-8080-exec-160 | Контент биографии успешно модифицирован
+2024-12-28 17:30:22.150 | INFO | http-nio-8080-exec-160 | Страница биографии Наполеона успешно обработана
+2024-12-28 17:30:31.758 | SERVLET_INIT | http-nio-8080-exec-162 | Инициализация сервлета: SettingsServlet
+2024-12-28 17:30:31.758 | SERVLET_REQUEST | http-nio-8080-exec-162 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:30:31.759 | INFO | http-nio-8080-exec-162 | Страница настроек успешно сформирована
+2024-12-28 17:30:51.937 | SERVLET_INIT | http-nio-8080-exec-164 | Инициализация сервлета: CounterServlet
+2024-12-28 17:30:51.938 | SERVLET_REQUEST | http-nio-8080-exec-164 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:30:51.943 | INFO | http-nio-8080-exec-164 | Страница статистики посещений успешно сформирована
+2024-12-28 17:31:01.116 | SERVLET_REQUEST | http-nio-8080-exec-165 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:31:01.116 | INFO | http-nio-8080-exec-165 | Страница статистики посещений успешно сформирована
+2024-12-28 17:38:36.938 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: NapoleonGoalsServlet
+2024-12-28 17:38:36.939 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: SettingsServlet
+2024-12-28 17:38:36.940 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: CounterServlet
+2024-12-28 17:38:36.942 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: LogViewerServlet
+2024-12-28 17:38:36.943 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: NapoleonBiographyServlet
+2024-12-28 17:38:43.108 | SERVLET_INIT | http-nio-8080-exec-164 | Инициализация сервлета: CounterServlet
+2024-12-28 17:38:43.110 | SERVLET_REQUEST | http-nio-8080-exec-164 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 17:38:43.125 | INFO | http-nio-8080-exec-164 | Сформирована страница статистики. Всего посещений: 1, Уникальных страниц: 1
+2024-12-28 17:39:00.116 | SERVLET_INIT | http-nio-8080-exec-166 | Инициализация сервлета: SettingsServlet
+2024-12-28 17:39:00.117 | SERVLET_REQUEST | http-nio-8080-exec-166 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:39:00.117 | INFO | http-nio-8080-exec-166 | Страница настроек успешно сформирована
+2024-12-28 17:39:05.875 | SERVLET_INIT | http-nio-8080-exec-171 | Инициализация сервлета: LogViewerServlet
+2024-12-28 17:39:05.875 | SERVLET_REQUEST | http-nio-8080-exec-171 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:39:05.904 | INFO | http-nio-8080-exec-171 | Журнал логов успешно отображен
+2024-12-28 17:39:20.931 | SERVLET_INIT | http-nio-8080-exec-170 | Инициализация сервлета: NapoleonBiographyServlet
+2024-12-28 17:39:20.931 | SERVLET_REQUEST | http-nio-8080-exec-170 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:39:20.932 | DEBUG | http-nio-8080-exec-170 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 17:39:20.934 | DEBUG | http-nio-8080-exec-170 | Размер файла биографии: 4607 байт
+2024-12-28 17:39:20.935 | INFO | http-nio-8080-exec-170 | Контент биографии успешно модифицирован
+2024-12-28 17:39:20.935 | INFO | http-nio-8080-exec-170 | Страница биографии Наполеона успешно обработана
+2024-12-28 17:39:23.535 | SERVLET_INIT | http-nio-8080-exec-169 | Инициализация сервлета: NapoleonGoalsServlet
+2024-12-28 17:39:23.536 | SERVLET_REQUEST | http-nio-8080-exec-169 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 17:39:23.537 | DEBUG | http-nio-8080-exec-169 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 17:39:23.539 | DEBUG | http-nio-8080-exec-169 | Размер файла целей: 3824 байт
+2024-12-28 17:39:23.539 | INFO | http-nio-8080-exec-169 | Контент целей успешно модифицирован
+2024-12-28 17:39:23.540 | INFO | http-nio-8080-exec-169 | Страница целей Наполеона успешно обработана
+2024-12-28 17:39:29.178 | SERVLET_REQUEST | http-nio-8080-exec-163 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 17:39:29.179 | INFO | http-nio-8080-exec-163 | Сформирована страница статистики. Всего посещений: 2, Уникальных страниц: 1
+2024-12-28 17:54:58.076 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: NapoleonGoalsServlet
+2024-12-28 17:54:58.081 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: SettingsServlet
+2024-12-28 17:54:58.081 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: CounterServlet
+2024-12-28 17:54:58.083 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: LogViewerServlet
+2024-12-28 17:54:58.084 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: NapoleonBiographyServlet
+2024-12-28 17:55:13.008 | SERVLET_INIT | http-nio-8080-exec-177 | Инициализация сервлета: CounterServlet
+2024-12-28 17:55:13.011 | SERVLET_REQUEST | http-nio-8080-exec-177 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count, SessionID: DF9BC2B93B7ED9DFB0E624A482CB8088
+2024-12-28 17:55:13.018 | INFO | http-nio-8080-exec-177 | Сформирована страница статистики. Уникальных страниц: 5
+2024-12-28 17:55:19.228 | SERVLET_REQUEST | http-nio-8080-exec-182 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count, SessionID: DF9BC2B93B7ED9DFB0E624A482CB8088
+2024-12-28 17:55:19.228 | INFO | http-nio-8080-exec-182 | Сформирована страница статистики. Уникальных страниц: 5
+2024-12-28 17:55:30.094 | SERVLET_REQUEST | http-nio-8080-exec-181 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count, SessionID: DF9BC2B93B7ED9DFB0E624A482CB8088
+2024-12-28 17:55:30.094 | INFO | http-nio-8080-exec-181 | Сформирована страница статистики. Уникальных страниц: 5
+2024-12-28 17:55:33.311 | SERVLET_REQUEST | http-nio-8080-exec-176 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count, SessionID: DF9BC2B93B7ED9DFB0E624A482CB8088
+2024-12-28 17:55:33.311 | INFO | http-nio-8080-exec-176 | Сформирована страница статистики. Уникальных страниц: 5
+2024-12-28 17:59:28.656 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: CounterServlet
+2024-12-28 17:59:36.677 | SERVLET_INIT | http-nio-8080-exec-188 | Инициализация сервлета: CounterServlet
+2024-12-28 17:59:36.679 | SERVLET_REQUEST | http-nio-8080-exec-188 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count, SessionID: 5AF89D54CDAE92C357356243791E2536
+2024-12-28 17:59:36.696 | INFO | http-nio-8080-exec-188 | Сформирована страница статистики. Уникальных страниц: 1
+2024-12-28 17:59:46.343 | SERVLET_INIT | http-nio-8080-exec-185 | Инициализация сервлета: SettingsServlet
+2024-12-28 17:59:46.343 | SERVLET_REQUEST | http-nio-8080-exec-185 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 17:59:46.344 | INFO | http-nio-8080-exec-185 | Страница настроек успешно сформирована
+2024-12-28 17:59:53.228 | SERVLET_REQUEST | http-nio-8080-exec-191 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count, SessionID: 5AF89D54CDAE92C357356243791E2536
+2024-12-28 17:59:53.228 | INFO | http-nio-8080-exec-191 | Сформирована страница статистики. Уникальных страниц: 1
+2024-12-28 18:07:39.306 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: SettingsServlet
+2024-12-28 18:07:39.307 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: CounterServlet
+2024-12-28 18:07:53.398 | SERVLET_INIT | http-nio-8080-exec-202 | Инициализация сервлета: CounterServlet
+2024-12-28 18:07:53.401 | SERVLET_REQUEST | http-nio-8080-exec-202 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 18:07:57.995 | SERVLET_REQUEST | http-nio-8080-exec-194 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 18:08:04.644 | SERVLET_INIT | http-nio-8080-exec-193 | Инициализация сервлета: LogViewerServlet
+2024-12-28 18:08:04.645 | SERVLET_REQUEST | http-nio-8080-exec-193 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 18:08:04.678 | INFO | http-nio-8080-exec-193 | Журнал логов успешно отображен
+2024-12-28 18:08:15.679 | SERVLET_REQUEST | http-nio-8080-exec-201 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 18:08:15.700 | INFO | http-nio-8080-exec-201 | Журнал логов успешно отображен
+2024-12-28 18:08:20.916 | SERVLET_INIT | http-nio-8080-exec-199 | Инициализация сервлета: SettingsServlet
+2024-12-28 18:08:20.917 | SERVLET_REQUEST | http-nio-8080-exec-199 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 18:08:20.918 | INFO | http-nio-8080-exec-199 | Страница настроек успешно сформирована
+2024-12-28 18:08:30.304 | SERVLET_REQUEST | http-nio-8080-exec-196 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 18:08:40.961 | SERVLET_REQUEST | http-nio-8080-exec-203 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 18:08:40.981 | INFO | http-nio-8080-exec-203 | Журнал логов успешно отображен
+2024-12-28 18:08:45.290 | SERVLET_REQUEST | http-nio-8080-exec-204 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 18:08:51.171 | SERVLET_INIT | http-nio-8080-exec-205 | Инициализация сервлета: NapoleonBiographyServlet
+2024-12-28 18:08:51.172 | SERVLET_REQUEST | http-nio-8080-exec-205 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 18:08:51.173 | DEBUG | http-nio-8080-exec-205 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 18:08:51.177 | DEBUG | http-nio-8080-exec-205 | Размер файла биографии: 4607 байт
+2024-12-28 18:08:51.178 | INFO | http-nio-8080-exec-205 | Контент биографии успешно модифицирован
+2024-12-28 18:08:51.178 | INFO | http-nio-8080-exec-205 | Страница биографии Наполеона успешно обработана
+2024-12-28 18:08:53.409 | SERVLET_INIT | http-nio-8080-exec-206 | Инициализация сервлета: NapoleonGoalsServlet
+2024-12-28 18:08:53.410 | SERVLET_REQUEST | http-nio-8080-exec-206 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 18:08:53.411 | DEBUG | http-nio-8080-exec-206 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 18:08:53.412 | DEBUG | http-nio-8080-exec-206 | Размер файла целей: 3824 байт
+2024-12-28 18:08:53.413 | INFO | http-nio-8080-exec-206 | Контент целей успешно модифицирован
+2024-12-28 18:08:53.413 | INFO | http-nio-8080-exec-206 | Страница целей Наполеона успешно обработана
+2024-12-28 18:08:59.733 | SERVLET_REQUEST | http-nio-8080-exec-207 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 18:16:20.122 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: NapoleonGoalsServlet
+2024-12-28 18:16:20.122 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: SettingsServlet
+2024-12-28 18:16:20.123 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: CounterServlet
+2024-12-28 18:16:20.123 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: LogViewerServlet
+2024-12-28 18:16:20.124 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: NapoleonBiographyServlet
+2024-12-28 18:16:24.206 | SERVLET_INIT | http-nio-8080-exec-205 | Инициализация сервлета: CounterServlet
+2024-12-28 18:16:24.210 | SERVLET_REQUEST | http-nio-8080-exec-205 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 18:16:27.676 | SERVLET_REQUEST | http-nio-8080-exec-206 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 18:16:35.283 | SERVLET_INIT | http-nio-8080-exec-211 | Инициализация сервлета: LogViewerServlet
+2024-12-28 18:16:35.283 | SERVLET_REQUEST | http-nio-8080-exec-211 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 18:16:35.317 | INFO | http-nio-8080-exec-211 | Журнал логов успешно отображен
+2024-12-28 18:16:42.746 | SERVLET_INIT | http-nio-8080-exec-203 | Инициализация сервлета: SettingsServlet
+2024-12-28 18:16:42.746 | SERVLET_REQUEST | http-nio-8080-exec-203 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 18:16:42.747 | INFO | http-nio-8080-exec-203 | Страница настроек успешно сформирована
+2024-12-28 18:16:48.849 | SERVLET_REQUEST | http-nio-8080-exec-208 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:01:28.038 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: SettingsServlet
+2024-12-28 19:01:28.048 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: CounterServlet
+2024-12-28 19:01:28.051 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: LogViewerServlet
+2024-12-28 19:01:33.713 | SERVLET_INIT | http-nio-8080-exec-222 | Инициализация сервлета: CounterServlet
+2024-12-28 19:01:33.733 | INFO | http-nio-8080-exec-222 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:01:33.735 | INFO | http-nio-8080-exec-222 | Session ID: 23286DC95E3538A1CA951E0361CBA2C7
+2024-12-28 19:01:33.737 | SERVLET_REQUEST | http-nio-8080-exec-222 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:01:36.863 | INFO | http-nio-8080-exec-216 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:01:36.864 | INFO | http-nio-8080-exec-216 | Session ID: 23286DC95E3538A1CA951E0361CBA2C7
+2024-12-28 19:01:36.865 | SERVLET_REQUEST | http-nio-8080-exec-216 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:01:41.106 | SERVLET_INIT | http-nio-8080-exec-220 | Инициализация сервлета: SettingsServlet
+2024-12-28 19:01:41.107 | INFO | http-nio-8080-exec-220 | Обновлена статистика для страницы: Настройки приложения
+2024-12-28 19:01:41.108 | SERVLET_REQUEST | http-nio-8080-exec-220 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:01:41.108 | INFO | http-nio-8080-exec-220 | Страница настроек успешно сформирована
+2024-12-28 19:01:43.642 | INFO | http-nio-8080-exec-215 | Обновлена статистика для страницы: Настройки приложения
+2024-12-28 19:01:43.642 | SERVLET_REQUEST | http-nio-8080-exec-215 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:01:43.643 | INFO | http-nio-8080-exec-215 | Страница настроек успешно сформирована
+2024-12-28 19:01:50.105 | INFO | http-nio-8080-exec-217 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:01:50.105 | INFO | http-nio-8080-exec-217 | Session ID: 23286DC95E3538A1CA951E0361CBA2C7
+2024-12-28 19:01:50.106 | SERVLET_REQUEST | http-nio-8080-exec-217 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:01:57.971 | SERVLET_INIT | http-nio-8080-exec-218 | Инициализация сервлета: LogViewerServlet
+2024-12-28 19:01:57.971 | INFO | http-nio-8080-exec-218 | Обновлена статистика для страницы: Журнал логов
+2024-12-28 19:01:57.972 | SERVLET_REQUEST | http-nio-8080-exec-218 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:01:58.013 | INFO | http-nio-8080-exec-218 | Журнал логов успешно отображен
+2024-12-28 19:02:40.802 | SERVLET_INIT | http-nio-8080-exec-225 | Инициализация сервлета: NapoleonBiographyServlet
+2024-12-28 19:02:40.802 | INFO | http-nio-8080-exec-225 | Обновлена статистика для страницы: Биография Наполеона
+2024-12-28 19:02:40.803 | SERVLET_REQUEST | http-nio-8080-exec-225 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:02:40.805 | DEBUG | http-nio-8080-exec-225 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 19:02:40.818 | DEBUG | http-nio-8080-exec-225 | Размер файла биографии: 4607 байт
+2024-12-28 19:02:40.820 | INFO | http-nio-8080-exec-225 | Контент биографии успешно модифицирован
+2024-12-28 19:02:40.820 | INFO | http-nio-8080-exec-225 | Страница биографии Наполеона успешно обработана
+2024-12-28 19:02:43.177 | SERVLET_INIT | http-nio-8080-exec-226 | Инициализация сервлета: NapoleonGoalsServlet
+2024-12-28 19:02:43.177 | INFO | http-nio-8080-exec-226 | Обновлена статистика для страницы: Цели Наполеона
+2024-12-28 19:02:43.178 | SERVLET_REQUEST | http-nio-8080-exec-226 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:02:43.180 | DEBUG | http-nio-8080-exec-226 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 19:02:43.183 | DEBUG | http-nio-8080-exec-226 | Размер файла целей: 3824 байт
+2024-12-28 19:02:43.184 | INFO | http-nio-8080-exec-226 | Контент целей успешно модифицирован
+2024-12-28 19:02:43.185 | INFO | http-nio-8080-exec-226 | Страница целей Наполеона успешно обработана
+2024-12-28 19:02:44.597 | INFO | http-nio-8080-exec-228 | Обновлена статистика для страницы: Биография Наполеона
+2024-12-28 19:02:44.598 | SERVLET_REQUEST | http-nio-8080-exec-228 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:02:44.598 | DEBUG | http-nio-8080-exec-228 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 19:02:44.599 | DEBUG | http-nio-8080-exec-228 | Размер файла биографии: 4607 байт
+2024-12-28 19:02:44.599 | INFO | http-nio-8080-exec-228 | Контент биографии успешно модифицирован
+2024-12-28 19:02:44.600 | INFO | http-nio-8080-exec-228 | Страница биографии Наполеона успешно обработана
+2024-12-28 19:02:45.956 | INFO | http-nio-8080-exec-229 | Обновлена статистика для страницы: Цели Наполеона
+2024-12-28 19:02:45.956 | SERVLET_REQUEST | http-nio-8080-exec-229 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:02:45.957 | DEBUG | http-nio-8080-exec-229 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 19:02:45.958 | DEBUG | http-nio-8080-exec-229 | Размер файла целей: 3824 байт
+2024-12-28 19:02:45.959 | INFO | http-nio-8080-exec-229 | Контент целей успешно модифицирован
+2024-12-28 19:02:45.959 | INFO | http-nio-8080-exec-229 | Страница целей Наполеона успешно обработана
+2024-12-28 19:02:47.522 | INFO | http-nio-8080-exec-224 | Обновлена статистика для страницы: Биография Наполеона
+2024-12-28 19:02:47.523 | SERVLET_REQUEST | http-nio-8080-exec-224 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:02:47.524 | DEBUG | http-nio-8080-exec-224 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 19:02:47.524 | DEBUG | http-nio-8080-exec-224 | Размер файла биографии: 4607 байт
+2024-12-28 19:02:47.525 | INFO | http-nio-8080-exec-224 | Контент биографии успешно модифицирован
+2024-12-28 19:02:47.525 | INFO | http-nio-8080-exec-224 | Страница биографии Наполеона успешно обработана
+2024-12-28 19:02:49.140 | INFO | http-nio-8080-exec-230 | Обновлена статистика для страницы: Цели Наполеона
+2024-12-28 19:02:49.141 | SERVLET_REQUEST | http-nio-8080-exec-230 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:02:49.142 | DEBUG | http-nio-8080-exec-230 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 19:02:49.142 | DEBUG | http-nio-8080-exec-230 | Размер файла целей: 3824 байт
+2024-12-28 19:02:49.143 | INFO | http-nio-8080-exec-230 | Контент целей успешно модифицирован
+2024-12-28 19:02:49.148 | INFO | http-nio-8080-exec-230 | Страница целей Наполеона успешно обработана
+2024-12-28 19:02:50.524 | INFO | http-nio-8080-exec-225 | Обновлена статистика для страницы: Биография Наполеона
+2024-12-28 19:02:50.525 | SERVLET_REQUEST | http-nio-8080-exec-225 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:02:50.525 | DEBUG | http-nio-8080-exec-225 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 19:02:50.527 | DEBUG | http-nio-8080-exec-225 | Размер файла биографии: 4607 байт
+2024-12-28 19:02:50.527 | INFO | http-nio-8080-exec-225 | Контент биографии успешно модифицирован
+2024-12-28 19:02:50.527 | INFO | http-nio-8080-exec-225 | Страница биографии Наполеона успешно обработана
+2024-12-28 19:02:54.371 | INFO | http-nio-8080-exec-231 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:02:54.371 | INFO | http-nio-8080-exec-231 | Session ID: 23286DC95E3538A1CA951E0361CBA2C7
+2024-12-28 19:02:54.371 | SERVLET_REQUEST | http-nio-8080-exec-231 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:12:19.019 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: NapoleonGoalsServlet
+2024-12-28 19:12:19.020 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: SettingsServlet
+2024-12-28 19:12:19.020 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: CounterServlet
+2024-12-28 19:12:19.022 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: LogViewerServlet
+2024-12-28 19:12:19.022 | SERVLET_DESTROY | Catalina-utility-1 | Уничтожение сервлета: NapoleonBiographyServlet
+2024-12-28 19:13:35.882 | SERVLET_INIT | http-nio-8080-exec-226 | Инициализация сервлета: NapoleonBiographyServlet
+2024-12-28 19:13:48.022 | SERVLET_INIT | http-nio-8080-exec-230 | Инициализация сервлета: LogViewerServlet
+2024-12-28 19:14:00.110 | SERVLET_INIT | http-nio-8080-exec-227 | Инициализация сервлета: SettingsServlet
+2024-12-28 19:14:17.573 | SERVLET_INIT | http-nio-8080-exec-225 | Инициализация сервлета: CounterServlet
+2024-12-28 19:14:17.577 | INFO | http-nio-8080-exec-225 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:14:17.580 | INFO | http-nio-8080-exec-225 | Session ID: BE3669B7B7BB860D6CDDCE2B6863A568
+2024-12-28 19:14:17.580 | SERVLET_REQUEST | http-nio-8080-exec-225 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:14:23.369 | INFO | http-nio-8080-exec-233 | Обновлена статистика для страницы: Настройки приложения
+2024-12-28 19:14:23.369 | SERVLET_REQUEST | http-nio-8080-exec-233 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:14:23.370 | INFO | http-nio-8080-exec-233 | Страница настроек успешно сформирована
+2024-12-28 19:14:35.895 | INFO | http-nio-8080-exec-232 | Обновлена статистика для страницы: Журнал логов
+2024-12-28 19:14:35.895 | SERVLET_REQUEST | http-nio-8080-exec-232 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:14:35.932 | INFO | http-nio-8080-exec-232 | Журнал логов успешно отображен
+2024-12-28 19:15:03.152 | INFO | http-nio-8080-exec-237 | Обновлена статистика для страницы: Биография Наполеона
+2024-12-28 19:15:03.153 | SERVLET_REQUEST | http-nio-8080-exec-237 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:15:03.155 | DEBUG | http-nio-8080-exec-237 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 19:15:03.159 | DEBUG | http-nio-8080-exec-237 | Размер файла биографии: 4607 байт
+2024-12-28 19:15:03.159 | INFO | http-nio-8080-exec-237 | Контент биографии успешно модифицирован
+2024-12-28 19:15:03.160 | INFO | http-nio-8080-exec-237 | Страница биографии Наполеона успешно обработана
+2024-12-28 19:15:05.579 | SERVLET_INIT | http-nio-8080-exec-238 | Инициализация сервлета: NapoleonGoalsServlet
+2024-12-28 19:15:05.579 | INFO | http-nio-8080-exec-238 | Обновлена статистика для страницы: Цели Наполеона
+2024-12-28 19:15:05.579 | SERVLET_REQUEST | http-nio-8080-exec-238 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:15:05.580 | DEBUG | http-nio-8080-exec-238 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 19:15:05.584 | DEBUG | http-nio-8080-exec-238 | Размер файла целей: 3824 байт
+2024-12-28 19:15:05.586 | INFO | http-nio-8080-exec-238 | Контент целей успешно модифицирован
+2024-12-28 19:15:05.587 | INFO | http-nio-8080-exec-238 | Страница целей Наполеона успешно обработана
+2024-12-28 19:15:07.267 | INFO | http-nio-8080-exec-231 | Обновлена статистика для страницы: Биография Наполеона
+2024-12-28 19:15:07.268 | SERVLET_REQUEST | http-nio-8080-exec-231 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:15:07.269 | DEBUG | http-nio-8080-exec-231 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 19:15:07.270 | DEBUG | http-nio-8080-exec-231 | Размер файла биографии: 4607 байт
+2024-12-28 19:15:07.270 | INFO | http-nio-8080-exec-231 | Контент биографии успешно модифицирован
+2024-12-28 19:15:07.271 | INFO | http-nio-8080-exec-231 | Страница биографии Наполеона успешно обработана
+2024-12-28 19:15:09.173 | INFO | http-nio-8080-exec-228 | Обновлена статистика для страницы: Цели Наполеона
+2024-12-28 19:15:09.173 | SERVLET_REQUEST | http-nio-8080-exec-228 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:15:09.173 | DEBUG | http-nio-8080-exec-228 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 19:15:09.174 | DEBUG | http-nio-8080-exec-228 | Размер файла целей: 3824 байт
+2024-12-28 19:15:09.175 | INFO | http-nio-8080-exec-228 | Контент целей успешно модифицирован
+2024-12-28 19:15:09.175 | INFO | http-nio-8080-exec-228 | Страница целей Наполеона успешно обработана
+2024-12-28 19:15:11.140 | INFO | http-nio-8080-exec-239 | Обновлена статистика для страницы: Биография Наполеона
+2024-12-28 19:15:11.141 | SERVLET_REQUEST | http-nio-8080-exec-239 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:15:11.142 | DEBUG | http-nio-8080-exec-239 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 19:15:11.142 | DEBUG | http-nio-8080-exec-239 | Размер файла биографии: 4607 байт
+2024-12-28 19:15:11.143 | INFO | http-nio-8080-exec-239 | Контент биографии успешно модифицирован
+2024-12-28 19:15:11.145 | INFO | http-nio-8080-exec-239 | Страница биографии Наполеона успешно обработана
+2024-12-28 19:15:13.347 | INFO | http-nio-8080-exec-233 | Обновлена статистика для страницы: Цели Наполеона
+2024-12-28 19:15:13.347 | SERVLET_REQUEST | http-nio-8080-exec-233 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:15:13.348 | DEBUG | http-nio-8080-exec-233 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 19:15:13.349 | DEBUG | http-nio-8080-exec-233 | Размер файла целей: 3824 байт
+2024-12-28 19:15:13.349 | INFO | http-nio-8080-exec-233 | Контент целей успешно модифицирован
+2024-12-28 19:15:13.350 | INFO | http-nio-8080-exec-233 | Страница целей Наполеона успешно обработана
+2024-12-28 19:15:17.988 | INFO | http-nio-8080-exec-234 | Обновлена статистика для страницы: Биография Наполеона
+2024-12-28 19:15:17.988 | SERVLET_REQUEST | http-nio-8080-exec-234 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:15:17.989 | DEBUG | http-nio-8080-exec-234 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 19:15:17.989 | DEBUG | http-nio-8080-exec-234 | Размер файла биографии: 4607 байт
+2024-12-28 19:15:17.991 | INFO | http-nio-8080-exec-234 | Контент биографии успешно модифицирован
+2024-12-28 19:15:17.991 | INFO | http-nio-8080-exec-234 | Страница биографии Наполеона успешно обработана
+2024-12-28 19:15:25.831 | INFO | http-nio-8080-exec-235 | Обновлена статистика для страницы: Настройки приложения
+2024-12-28 19:15:25.831 | SERVLET_REQUEST | http-nio-8080-exec-235 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:15:25.831 | INFO | http-nio-8080-exec-235 | Страница настроек успешно сформирована
+2024-12-28 19:15:30.231 | INFO | http-nio-8080-exec-236 | Обновлена статистика для страницы: Журнал логов
+2024-12-28 19:15:30.232 | SERVLET_REQUEST | http-nio-8080-exec-236 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:15:30.314 | INFO | http-nio-8080-exec-236 | Журнал логов успешно отображен
+2024-12-28 19:15:50.601 | INFO | http-nio-8080-exec-241 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:15:50.601 | INFO | http-nio-8080-exec-241 | Session ID: BE3669B7B7BB860D6CDDCE2B6863A568
+2024-12-28 19:15:50.602 | SERVLET_REQUEST | http-nio-8080-exec-241 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:15:58.957 | INFO | http-nio-8080-exec-242 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:15:58.957 | INFO | http-nio-8080-exec-242 | Session ID: BE3669B7B7BB860D6CDDCE2B6863A568
+2024-12-28 19:15:58.957 | SERVLET_REQUEST | http-nio-8080-exec-242 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:23:10.259 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: NapoleonGoalsServlet
+2024-12-28 19:23:10.276 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: SettingsServlet
+2024-12-28 19:23:10.278 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: CounterServlet
+2024-12-28 19:23:10.289 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: LogViewerServlet
+2024-12-28 19:23:10.290 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: NapoleonBiographyServlet
+2024-12-28 19:23:19.967 | SERVLET_INIT | http-nio-8080-exec-240 | Инициализация сервлета: NapoleonBiographyServlet
+2024-12-28 19:23:32.173 | SERVLET_INIT | http-nio-8080-exec-234 | Инициализация сервлета: CounterServlet
+2024-12-28 19:23:32.190 | INFO | http-nio-8080-exec-234 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:23:32.196 | INFO | http-nio-8080-exec-234 | Session ID: B97E2740110FFEDBD467E8721F908C18
+2024-12-28 19:23:32.196 | SERVLET_REQUEST | http-nio-8080-exec-234 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:23:37.617 | SERVLET_INIT | http-nio-8080-exec-233 | Инициализация сервлета: SettingsServlet
+2024-12-28 19:23:37.618 | INFO | http-nio-8080-exec-233 | Обновлена статистика для страницы: Настройки приложения
+2024-12-28 19:23:37.618 | SERVLET_REQUEST | http-nio-8080-exec-233 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:23:37.619 | INFO | http-nio-8080-exec-233 | Страница настроек успешно сформирована
+2024-12-28 19:23:47.231 | INFO | http-nio-8080-exec-236 | Обновлена статистика для страницы: Биография Наполеона
+2024-12-28 19:23:47.232 | SERVLET_REQUEST | http-nio-8080-exec-236 | Обработка запроса в сервлете NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:23:47.233 | DEBUG | http-nio-8080-exec-236 | Путь к файлу биографии: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 19:23:47.239 | DEBUG | http-nio-8080-exec-236 | Размер файла биографии: 4607 байт
+2024-12-28 19:23:47.239 | INFO | http-nio-8080-exec-236 | Контент биографии успешно модифицирован
+2024-12-28 19:23:47.240 | INFO | http-nio-8080-exec-236 | Страница биографии Наполеона успешно обработана
+2024-12-28 19:23:49.448 | SERVLET_INIT | http-nio-8080-exec-235 | Инициализация сервлета: NapoleonGoalsServlet
+2024-12-28 19:23:49.450 | INFO | http-nio-8080-exec-235 | Обновлена статистика для страницы: Цели Наполеона
+2024-12-28 19:23:49.450 | SERVLET_REQUEST | http-nio-8080-exec-235 | Обработка запроса в сервлете NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 19:23:49.451 | DEBUG | http-nio-8080-exec-235 | Путь к файлу целей: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 19:23:49.454 | DEBUG | http-nio-8080-exec-235 | Размер файла целей: 3824 байт
+2024-12-28 19:23:49.455 | INFO | http-nio-8080-exec-235 | Контент целей успешно модифицирован
+2024-12-28 19:23:49.456 | INFO | http-nio-8080-exec-235 | Страница целей Наполеона успешно обработана
+2024-12-28 19:23:56.720 | INFO | http-nio-8080-exec-244 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:23:56.720 | INFO | http-nio-8080-exec-244 | Session ID: B97E2740110FFEDBD467E8721F908C18
+2024-12-28 19:23:56.721 | SERVLET_REQUEST | http-nio-8080-exec-244 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:23:58.462 | INFO | http-nio-8080-exec-238 | Запрос на сброс статистики посещений
+2024-12-28 19:23:58.465 | DEBUG | http-nio-8080-exec-238 | Глобальная статистика посещений сброшена
+2024-12-28 19:24:07.221 | INFO | http-nio-8080-exec-247 | Запрос на сброс статистики посещений
+2024-12-28 19:24:07.221 | DEBUG | http-nio-8080-exec-247 | Глобальная статистика посещений сброшена
+2024-12-28 19:25:07.287 | INFO | http-nio-8080-exec-250 | Запрос на сброс статистики посещений
+2024-12-28 19:25:07.288 | DEBUG | http-nio-8080-exec-250 | Глобальная статистика посещений сброшена
+2024-12-28 19:27:51.149 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: NapoleonGoalsServlet
+2024-12-28 19:27:51.150 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: SettingsServlet
+2024-12-28 19:27:51.150 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: CounterServlet
+2024-12-28 19:27:51.150 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: NapoleonBiographyServlet
+2024-12-28 19:27:56.223 | SERVLET_INIT | http-nio-8080-exec-245 | Инициализация сервлета: CounterServlet
+2024-12-28 19:27:56.226 | INFO | http-nio-8080-exec-245 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:27:56.227 | INFO | http-nio-8080-exec-245 | Session ID: 0C89A96D7361D98E2418721AFF1195DA
+2024-12-28 19:27:56.228 | SERVLET_REQUEST | http-nio-8080-exec-245 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:28:01.249 | SERVLET_INIT | http-nio-8080-exec-248 | Инициализация сервлета: LogViewerServlet
+2024-12-28 19:28:01.249 | INFO | http-nio-8080-exec-248 | Обновлена статистика для страницы: Журнал логов
+2024-12-28 19:28:01.249 | SERVLET_REQUEST | http-nio-8080-exec-248 | Обработка запроса в сервлете LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:28:01.302 | INFO | http-nio-8080-exec-248 | Журнал логов успешно отображен
+2024-12-28 19:28:15.330 | SERVLET_INIT | http-nio-8080-exec-252 | Инициализация сервлета: SettingsServlet
+2024-12-28 19:28:15.330 | INFO | http-nio-8080-exec-252 | Обновлена статистика для страницы: Настройки приложения
+2024-12-28 19:28:15.330 | SERVLET_REQUEST | http-nio-8080-exec-252 | Обработка запроса в сервлете SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 19:28:15.331 | INFO | http-nio-8080-exec-252 | Страница настроек успешно сформирована
+2024-12-28 19:28:21.630 | INFO | http-nio-8080-exec-244 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:28:21.631 | INFO | http-nio-8080-exec-244 | Session ID: 0C89A96D7361D98E2418721AFF1195DA
+2024-12-28 19:28:21.631 | SERVLET_REQUEST | http-nio-8080-exec-244 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:28:24.204 | INFO | http-nio-8080-exec-250 | Запрос на сброс статистики посещений
+2024-12-28 19:28:24.206 | DEBUG | http-nio-8080-exec-250 | Глобальная статистика посещений сброшена
+2024-12-28 19:28:24.212 | INFO | http-nio-8080-exec-243 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:28:24.213 | INFO | http-nio-8080-exec-243 | Session ID: 0C89A96D7361D98E2418721AFF1195DA
+2024-12-28 19:28:24.213 | SERVLET_REQUEST | http-nio-8080-exec-243 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 19:28:26.338 | INFO | http-nio-8080-exec-253 | Запрос на сброс статистики посещений
+2024-12-28 19:28:26.339 | DEBUG | http-nio-8080-exec-253 | Глобальная статистика посещений сброшена
+2024-12-28 19:28:26.346 | INFO | http-nio-8080-exec-254 | Обновлена статистика для страницы: Статистика посещений
+2024-12-28 19:28:26.346 | INFO | http-nio-8080-exec-254 | Session ID: 0C89A96D7361D98E2418721AFF1195DA
+2024-12-28 19:28:26.347 | SERVLET_REQUEST | http-nio-8080-exec-254 | Обработка запроса в сервлете CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 20:11:04.493 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: SettingsServlet
+2024-12-28 20:11:04.520 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: CounterServlet
+2024-12-28 20:11:04.538 | SERVLET_DESTROY | Catalina-utility-2 | Уничтожение сервлета: LogViewerServlet
+2024-12-28 20:11:08.441 | SERVLET_INIT | http-nio-8080-exec-255 | Initializing servlet: CounterServlet
+2024-12-28 20:11:08.501 | INFO | http-nio-8080-exec-255 | Updated statistics for page: Visit Statistics
+2024-12-28 20:11:08.510 | INFO | http-nio-8080-exec-255 | Session ID: 77CE0F5E92B187871F5C72FB63C3D432
+2024-12-28 20:11:08.512 | SERVLET_REQUEST | http-nio-8080-exec-255 | Processing request in servlet CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 20:11:16.065 | SERVLET_INIT | http-nio-8080-exec-254 | Initializing servlet: LogViewerServlet
+2024-12-28 20:11:16.065 | INFO | http-nio-8080-exec-254 | Updated statistics for page: Log Journal
+2024-12-28 20:11:16.066 | SERVLET_REQUEST | http-nio-8080-exec-254 | Processing request in servlet LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 20:11:16.126 | INFO | http-nio-8080-exec-254 | Log journal successfully displayed
+2024-12-28 20:11:32.778 | SERVLET_INIT | http-nio-8080-exec-258 | Initializing servlet: SettingsServlet
+2024-12-28 20:11:32.779 | INFO | http-nio-8080-exec-258 | Updated statistics for page: Application Settings
+2024-12-28 20:11:32.779 | SERVLET_REQUEST | http-nio-8080-exec-258 | Processing request in servlet SettingsServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 20:11:32.782 | INFO | http-nio-8080-exec-258 | Settings page successfully generated
+2024-12-28 20:11:41.832 | SERVLET_INIT | http-nio-8080-exec-262 | Initializing servlet: NapoleonBiographyServlet
+2024-12-28 20:11:41.832 | INFO | http-nio-8080-exec-262 | Updated statistics for page: Napoleon's Biography
+2024-12-28 20:11:41.833 | SERVLET_REQUEST | http-nio-8080-exec-262 | Processing request in servlet NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 20:11:41.836 | DEBUG | http-nio-8080-exec-262 | Biography file path: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 20:11:41.848 | DEBUG | http-nio-8080-exec-262 | Biography file size: 4722 bytes
+2024-12-28 20:11:41.848 | INFO | http-nio-8080-exec-262 | Biography content successfully modified
+2024-12-28 20:11:41.848 | INFO | http-nio-8080-exec-262 | Napoleon's biography page successfully processed
+2024-12-28 20:11:43.717 | SERVLET_INIT | http-nio-8080-exec-263 | Initializing servlet: NapoleonGoalsServlet
+2024-12-28 20:11:43.718 | INFO | http-nio-8080-exec-263 | Updated statistics for page: Napoleon's Goals
+2024-12-28 20:11:43.718 | SERVLET_REQUEST | http-nio-8080-exec-263 | Processing request in servlet NapoleonGoalsServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 20:11:43.720 | DEBUG | http-nio-8080-exec-263 | Goals file path: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon-goals.html
+2024-12-28 20:11:43.722 | DEBUG | http-nio-8080-exec-263 | Goals file size: 3713 bytes
+2024-12-28 20:11:43.722 | INFO | http-nio-8080-exec-263 | Goals content successfully modified
+2024-12-28 20:11:43.723 | INFO | http-nio-8080-exec-263 | Napoleon's goals page successfully processed
+2024-12-28 20:11:45.468 | INFO | http-nio-8080-exec-259 | Updated statistics for page: Napoleon's Biography
+2024-12-28 20:11:45.468 | SERVLET_REQUEST | http-nio-8080-exec-259 | Processing request in servlet NapoleonBiographyServlet: IP: 0:0:0:0:0:0:0:1, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-28 20:11:45.469 | DEBUG | http-nio-8080-exec-259 | Biography file path: C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\TeachMeSkills_C32_HW_Lesson_24\napoleon.html
+2024-12-28 20:11:45.469 | DEBUG | http-nio-8080-exec-259 | Biography file size: 4722 bytes
+2024-12-28 20:11:45.470 | INFO | http-nio-8080-exec-259 | Biography content successfully modified
+2024-12-28 20:11:45.470 | INFO | http-nio-8080-exec-259 | Napoleon's biography page successfully processed
+2024-12-28 20:11:50.519 | INFO | http-nio-8080-exec-264 | Updated statistics for page: Log Journal
+2024-12-28 20:11:50.520 | SERVLET_REQUEST | http-nio-8080-exec-264 | Processing request in servlet LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 20:11:50.556 | INFO | http-nio-8080-exec-264 | Log journal successfully displayed
+2024-12-28 20:11:59.377 | INFO | http-nio-8080-exec-266 | Updated statistics for page: Visit Statistics
+2024-12-28 20:11:59.378 | INFO | http-nio-8080-exec-266 | Session ID: 77CE0F5E92B187871F5C72FB63C3D432
+2024-12-28 20:11:59.378 | SERVLET_REQUEST | http-nio-8080-exec-266 | Processing request in servlet CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 20:12:00.733 | INFO | http-nio-8080-exec-268 | Requesting visit statistics reset
+2024-12-28 20:12:00.734 | DEBUG | http-nio-8080-exec-268 | Global visit statistics have been reset
+2024-12-28 20:12:00.739 | INFO | http-nio-8080-exec-269 | Updated statistics for page: Visit Statistics
+2024-12-28 20:12:00.741 | INFO | http-nio-8080-exec-269 | Session ID: 77CE0F5E92B187871F5C72FB63C3D432
+2024-12-28 20:12:00.741 | SERVLET_REQUEST | http-nio-8080-exec-269 | Processing request in servlet CounterServlet: IP: 0:0:0:0:0:0:0:1, RequestURI: /TeachMeSkills_C32_HW_Lesson_24/count
+2024-12-28 20:12:10.038 | INFO | http-nio-8080-exec-263 | Updated statistics for page: Log Journal
+2024-12-28 20:12:10.038 | SERVLET_REQUEST | http-nio-8080-exec-263 | Processing request in servlet LogViewerServlet: IP: 0:0:0:0:0:0:0:1
+2024-12-28 20:12:10.076 | INFO | http-nio-8080-exec-263 | Log journal successfully displayed
